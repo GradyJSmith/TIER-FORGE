@@ -80,7 +80,7 @@ Feedback, suggestions, and contributions are always welcome.
 This app runs **fully in your browser**. No build tools required.
 
 ### **Use Online**
-You can [host it yourself](https://bloyomind.github.io/TIER-FORGE/) or open the HTML file locally.
+You can [host it yourself](https://gradyjsmith.github.io/TIER-FORGE/) or open the HTML file locally.
 
 ### **Local Use**
 Clone the repo and open `index.html`:
