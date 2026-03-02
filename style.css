@@ -230,7 +230,7 @@ body {
   padding: 1.5rem;
   border-radius: 0.5rem;
   width: 320px;
-  color: white;
+  color: black;
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -257,5 +257,6 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
 
 
