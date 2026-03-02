@@ -1,14 +1,13 @@
 # **TIER FORGE**
-### **_Coming Between Late 2026 to Early 2027: Tier Forge Desktop App!_**
 
-**A clean, powerful, open‑source tier list maker — ad‑free, account‑free, and built for everyone.**
+**A minimal, powerful, open‑source tier list maker — ad‑free, account‑free, and built for anyone.**
 
 ---
 
 ## Overview
 
-**TIER FORGE** is a modern, mobile‑friendly web app for creating custom tier lists with zero friction.  
-No installs. No signups. No ads. Just pure tier‑making bliss.
+**TIER FORGE** is a modern, mobile‑friendly web application for creating custom tier lists with zero hassel. 
+No installs. No signups. No ads. Just pure tier‑making heaven.
 
 Rank anything — games, snacks, characters, opinions — with a smooth, distraction‑free interface.
 
@@ -18,7 +17,7 @@ Rank anything — games, snacks, characters, opinions — with a smooth, distrac
 
 ### **Open Source & Free Forever**
 - MIT‑licensed and fully open source  
-- No trackers, ads, or upsells  
+- No trackers or ads  
 - Runs entirely client‑side — your data stays with you  
 
 ### **Powerful, Yet Simple**
@@ -28,7 +27,7 @@ Rank anything — games, snacks, characters, opinions — with a smooth, distrac
 - Reorder tiers effortlessly  
 - Delete tiers or items instantly  
 
-### **Clean, Modern UI**
+### **Sleek Modern UI**
 - Built‑in dark mode  
 - Interactive color picker with 20 presets  
 - Responsive layout for desktop, tablet, and mobile  
